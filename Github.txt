@@ -26,6 +26,6 @@ https://github.com/mamatadash1/FSD_PIXOGRAM_Eureka
 Mami : Repo Details
 
 User: mamatadash1 (dsh.mamata@gmail.com)
-Pwd: Mamigit@1982
-sushreekpgit/sushreekp@gmail.com_Skpgit@1982 - Student
-sushreekp/sushreekp@yahoo.com_Skpgit@1982 - Teacher
+Pwd: XXXXXX
+sushreekpgit/sushreekp@gmail.com_XXXXXX - Student
+sushreekp/sushreekp@yahoo.com_XXXX - Teacher
